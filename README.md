@@ -1,4 +1,4 @@
-# jeju
+# jeju v2.
 
 ## Project setup
 ```
