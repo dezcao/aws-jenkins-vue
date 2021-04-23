@@ -1,6 +1,6 @@
 # jeju v2.
 axios를 this.$http로 바꾸세요..
-dege
+eedege
 
 ## Project setup
 ```
